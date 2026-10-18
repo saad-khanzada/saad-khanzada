@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Saad Kabeer — AI Automation, RAG, Machine Learning</title>
+<desc id="desc">A navy and teal engineering banner. A short typing introduction and network pulse settle into a static composition.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08121f"/><stop offset="1" stop-color="#112a35"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#28d9c1" stop-opacity=".14"/><stop offset="1" stop-color="#28d9c1" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7dafc4" opacity=".14"/></pattern>
+ <clipPath id="type"><rect class="reveal" x="64" y="227" width="780" height="40"/></clipPath>
+</defs>
+<style>
+.reveal{animation:typing 2.6s steps(43,end) .35s both}
+.pulse{stroke-dasharray:45 600;stroke-dashoffset:645;animation:flow 3s ease-out .4s both}
+@keyframes typing{from{width:0}to{width:780px}}
+@keyframes flow{0%{stroke-dashoffset:645;opacity:0}20%{opacity:.9}85%{opacity:.6}100%{stroke-dashoffset:0;opacity:0}}
+@media(prefers-reduced-motion:reduce){.reveal,.pulse{animation:none}.pulse{display:none}}
+</style>
+<rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="398" rx="19" fill="none" stroke="#29424c"/>
+<rect x="800" y="1" width="399" height="398" rx="19" fill="url(#grid)"/>
+<circle cx="1010" cy="195" r="230" fill="url(#halo)"/>
+<path d="M64 73h38" stroke="#53e4cc" stroke-width="4" stroke-linecap="round"/>
+<text x="118" y="79" fill="#8fb2c2" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">APPLIED AI / ENGINEERING</text>
+<text x="60" y="181" fill="#f1f7fa" font-family="Arial,sans-serif" font-weight="700" font-size="78" letter-spacing="-3">Saad Kabeer</text>
+<g clip-path="url(#type)"><text x="64" y="256" fill="#74e8d5" font-family="monospace" font-size="25">AI Automation · RAG · Machine Learning</text></g>
+<text x="64" y="333" fill="#93aebb" font-family="Arial,sans-serif" font-size="19" letter-spacing=".6">BUILD. VALIDATE. REFINE.</text>
+<g fill="none" stroke="#416777" stroke-width="1.5">
+<path d="M923 94L1030 161L1127 101M1030 161L1091 282L939 313L880 218L923 94M880 218L1030 161M1030 161L939 313M1091 282L1127 101"/>
+<circle cx="1030" cy="161" r="45" stroke="#51c9bb" opacity=".2"/><circle cx="1030" cy="161" r="64" stroke-dasharray="3 10" opacity=".3"/>
+</g>
+<g fill="none" stroke="#76f5db" stroke-width="3" class="pulse"><path d="M923 94L1030 161L1091 282L939 313L880 218L1030 161L1127 101"/></g>
+<g fill="#122f39" stroke="#6adac8" stroke-width="2">
+<circle cx="923" cy="94" r="9"/><circle cx="1127" cy="101" r="7"/><circle cx="1091" cy="282" r="10"/><circle cx="939" cy="313" r="7"/><circle cx="880" cy="218" r="9"/>
+<circle cx="1030" cy="161" r="23" fill="#16453f"/>
+</g>
+<path d="M1020 161h20m-10-10v20" stroke="#a0ffe7" stroke-width="2"/>
+</svg>
