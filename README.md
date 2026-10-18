@@ -8,7 +8,7 @@ BS Computer Science student · Islamabad, Pakistan
 
 ### [Explore All Projects →](https://saadkabeer.online)
 
-[Connect on LinkedIn](https://bit.ly/linkedinSaadkabeer)
+[Connect on LinkedIn](https://www.linkedin.com/in/saad-kabeer-ai/)
 
 ---
 
@@ -57,4 +57,4 @@ Python · Pandas · NumPy · scikit-learn · Preprocessing · Model evaluation
 
 Open to junior AI/ML and AI automation roles, internships, and focused automation projects.
 
-**[Explore All Projects →](https://saadkabeer.online)** &nbsp; · &nbsp; [LinkedIn](https://bit.ly/linkedinSaadkabeer)
+**[Explore All Projects →](https://saadkabeer.online)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/saad-kabeer-ai/)
